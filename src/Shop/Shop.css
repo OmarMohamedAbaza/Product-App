@@ -1,0 +1,8 @@
+.product_im{
+    margin-left: 25%;
+    object-fit: cover;
+}
+p{
+    margin: 0 auto;
+    width: 80%;
+}
